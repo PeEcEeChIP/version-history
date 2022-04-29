@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v0.0.1.3",
-	"Changes":"Need support? Join the Discord, and make a ticket I'll be happy to help when available. https://discord.gg/8TKfHkvdrY. (Only updated README.md). More blip's for interior's are on the way.",
+	"NewestVersion":"v0.0.1.4",
+	"Changes":"There was an issue, with fxmanifest.lua, stating in the server on every startup it could not support the current game, this should now be fixed.",
 	"DownloadLocation":"https://github.com/PeEcEeChIP/Raccoons-Blips"
 }
