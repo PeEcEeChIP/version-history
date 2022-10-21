@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v0.0.1.4",
-	"Changes":"There was an issue, with fxmanifest.lua, stating in the server on every startup it could not support the current game, this should now be fixed.",
+	"NewestVersion":"v1.0.1",
+	"Changes":"Only minor change, is the updated support URL to Discord, for any asisstance you can join here. https://discord.gg/G4Ybg7NwQs",
 	"DownloadLocation":"https://github.com/PeEcEeChIP/Raccoons-Blips"
 }
