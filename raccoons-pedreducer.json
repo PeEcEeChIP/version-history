@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v1.0.0.1",
-	"Changes":"There was an issue, with fxmanifest.lua, stating in the server on every startup it could not support the current game, this should now be fixed.",
+	"NewestVersion":"v1.0.0.2",
+	"Changes":"This script is no longer maintained and has been archived, there is no updated version of the script.",
 	"DownloadLocation":"https://github.com/PeEcEeChIP/Raccoons-PedReducer"
 }
