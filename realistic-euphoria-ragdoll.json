@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v1.0.0",
-	"Changes":"The very first version of the Euphoria Ragdoll script, there is much more to come!",
+	"NewestVersion":"v1.0.1",
+	"Changes":"Fixed a script error caused by a call to a non-existent function (`SetRagdollFlag`) in the `Euphoria.SetBoneProperties` function. The function has been updated to remove this call, which resolves the error.",
 	"DownloadLocation":"https://github.com/PeEcEeChIP/Realistic-Euphoria-Physics"
 }
