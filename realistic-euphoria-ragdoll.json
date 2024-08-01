@@ -1,5 +1,5 @@
 {
-	"NewestVersion":"v1.0.1",
-	"Changes":"Fixed a script error caused by a call to a non-existent function (`SetRagdollFlag`) in the `Euphoria.SetBoneProperties` function. The function has been updated to remove this call, which resolves the error.",
+	"NewestVersion":"v1.0.2",
+	"Changes":"Fixed an issue with Syntax & Incomplete threading.",
 	"DownloadLocation":"https://github.com/PeEcEeChIP/Realistic-Euphoria-Physics"
 }
